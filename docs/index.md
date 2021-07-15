@@ -45,13 +45,13 @@ __Machine Learning and Data Mining__
 
 
 ## Service and Work History
-`Jan. 2020 - Present`
+`January 2020 - Present`
 __Math Tutor__, BYUI
 
-`Jan. 2016 - Sept. 2018`
+`January 2016 - September 2018`
 __Administrative Assistant__, Cluff Injury Lawyers
 
-`Jan. 2019 - May 2019`
+`January 2019 - May 2019`
 __Volunteer English Teacher__, International Language Program
 
 <!-- ### Footer
